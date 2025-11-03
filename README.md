@@ -2,7 +2,6 @@
 
 Este projeto faz parte da entrega de fundamentos de **HTML5**, abordando semântica, formulários e multimídia.  
 Criado por *Lil Fraga* — Usuário GitHub: [@lilfraga3s](https://github.com/lilfraga3s)
-https://lilfraga3s.github.io/entrega-html5/
 
 ---
 
