@@ -1,17 +1,23 @@
-# Entrega — Projeto HTML5
+# 🌍 Entrega HTML5 — Projeto da Organização Exemplo
 
-## Passos para preparar o repositório público no GitHub
+Este projeto faz parte da entrega de fundamentos de **HTML5**, abordando semântica, formulários e multimídia.  
+Criado por *Lil Fraga* — Usuário GitHub: [@lilfraga3s](https://github.com/lilfraga3s)
 
-1. Crie um novo repositório no GitHub (por exemplo: `entrega-html5`).
-2. Suba a estrutura de pastas e arquivos conforme a raiz `entrega-html5/`.
-3. Verifique se o repositório está público.
-4. (Opcional) Ative o GitHub Pages para gerar um link público.
+---
 
-## Validação W3C
+## 🧩 Estrutura do Projeto
 
-Acesse https://validator.w3.org/ e valide cada arquivo HTML.
-
-## Observações
-
-- Campos obrigatórios e `pattern` conferem com os formatos brasileiros.
-- Imagens devem ser otimizadas e conter versões `.webp`.
+/entrega-html5/
+├─ index.html
+├─ projetos.html
+├─ cadastro.html
+├─ css/
+│ └─ style.css
+├─ js/
+│ └─ masks.js
+├─ img/
+│ ├─ logo.webp
+│ ├─ logo.png
+│ └─ projetos/
+│ └─ projeto-exemplo.jpg
+└─ README.md
